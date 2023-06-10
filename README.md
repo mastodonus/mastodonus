@@ -1,5 +1,5 @@
 <p align="center">Greetings 👽</p>
-<p align="center">I'm Adam Osmond!</p>
+<p align="center">I'm <strong>Adam Osmond</strong>!</p>
 <p align="center">I'm currently interested in...</p>
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="60" height="60" />
